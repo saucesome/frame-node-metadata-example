@@ -1,0 +1,22 @@
+{
+  "name": "frame-node-metadata-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saucesome/frame-node-metadata-example.git"
+  },
+  "author": "Jason Thompson | github.com/saucesome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saucesome/frame-node-metadata-example/issues"
+  },
+  "homepage": "https://github.com/saucesome/frame-node-metadata-example#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
