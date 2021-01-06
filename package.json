@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/saucesome/frame-node-metadata-example#readme",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   }
 }
